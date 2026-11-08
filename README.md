@@ -1,4 +1,4 @@
-# 🤖 Agentic AI Platform
+# 🤖 Autonomous AI Agent Orchestration Platform
 
 A production-ready Autonomous Agentic AI system that helps users achieve personalized learning or workflow goals through intelligent goal decomposition, task planning, automated execution, and continuous learning.
 
